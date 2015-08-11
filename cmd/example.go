@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/UniGrpah/uniPOS"
+	"github.com/unigraph/uniPOS"
 )
 
 func main() {
